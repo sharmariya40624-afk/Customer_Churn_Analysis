@@ -1,6 +1,7 @@
 **CUSTOMER CHURN ANALYSIS USING SQL AND TABLEAU**
 
 **Tools Used**
+
 -PostgreSQL
 
 -SQL
@@ -10,12 +11,15 @@
 -Excel
 
 **Objective**
+
 The goal of this project is to analyse customer churn patterns and identify factors influencing customer retention.
 
 **Dataset**
+
 Telco Customer Churn Dataset.
 
 **Key Business Questions**
+
 -What is the total number of customers?
 
 -What is the churn rate of the company?
@@ -37,6 +41,7 @@ Telco Customer Churn Dataset.
 -What is the total revenue generated?
 
 **Key Insights**
+
 -Month-to-month contract customers have the highest churn.
 
 -Customers with higher monthly charges tend to churn more.
